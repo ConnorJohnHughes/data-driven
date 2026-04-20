@@ -11,7 +11,7 @@ export default function Entry({data}) {
             <div className="info-container">
                 <img 
                     className="marker"
-                    src="/marker-icon.jpg" 
+                    src="./marker-icon.jpg" 
                     alt="map marker icon"
                 />
                 <span className="country">{data.country}</span>
